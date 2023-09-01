@@ -1,0 +1,151 @@
+.home{
+    background-image:url(../img/home.jpg);
+ font-family: 'Work Sans', sans-serif;;
+ background-size: contain;
+ background-repeat: no-repeat;
+ background-position:  right;
+ background-attachment: fixed;
+}
+.items {
+    font-family: 'Raleway', sans-serif;
+    padding-left: 3%;
+    padding-top: 0.5%;
+    padding-bottom: 1%;
+  }
+  .logos {
+   padding-left: 3%;
+    padding-top: 0.5%;
+    padding-bottom: 1%;
+  }
+.chau{
+    font-family: 'Work Sans', sans-serif;
+    padding-top: 0,25%;
+    color:black;
+    font-size: 40px;
+    font-weight: bold;
+    text-align:left center;
+    letter-spacing: 10px;
+
+ 
+}
+.hola {
+    font-family: 'Work Sans', sans-serif;
+    padding-top: 10%;
+    color:black;
+    font-size: 40px;
+    font-weight: bold;
+    text-align:left center;
+    letter-spacing: 10px;
+
+}
+.buenas{
+    font-family: 'Raleway', sans-serif;
+    color:black;
+    font-size: 80px;
+    font-weight: bold;
+    height: 100px;
+   
+}
+
+.bye{
+
+height: 100px;
+background-color: transparent;
+margin-top: 15%;
+}
+
+.about{
+    background-image: url(../img/about.jpg);
+    font-family: 'Work Sans', sans-serif;;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position:  right;
+    background-attachment: fixed;
+}
+
+.abou{
+    font-family: 'Work Sans', sans-serif;
+    padding-top: 0,25%;
+    font-size: 40px;
+    font-weight: bold;
+    letter-spacing: 10px;
+    }
+ 
+
+.abo {
+    font-family: 'Work Sans', sans-serif;
+    padding-top: 5%;
+    font-size: 40px;
+    font-weight: bold;
+  letter-spacing: 10px;
+    }
+.texto {
+   color: darkcyan;
+    margin-top: 2%;
+    font-size: 32px; 
+}
+.aut {
+    color: darkcyan;
+   font-size: 15px;
+   margin-top: 1.5%;
+}
+.texto2 {
+    color: darkcyan;
+    margin-top: 2%;
+    font-size: 32px; 
+}
+.tit {
+    font-family: 'Work Sans', sans-serif;  
+    font-weight: bold; 
+    font-size: 25px;
+}
+.music {
+    font-family: 'Work Sans', sans-serif;
+
+}
+.sub {
+font-weight: bold;
+font-size: 17px;
+padding-top: 0.5%;
+
+}
+.lista{
+    font-size: 12px;
+    font-weight: bold;
+   
+}
+.z{
+padding-top: 1%;
+
+}
+.asa {
+    font-size: 10px;
+    font-weight: bold;
+}
+.f {
+    padding-top: 0.25%;
+}
+.tam{
+    padding-top: 0.5%;
+}
+.conn {
+    font-family: 'Work Sans', sans-serif;  
+    font-weight: bold; 
+    font-size: 30px;
+}
+.yes{
+    font-weight: bold;
+    font-size: large;
+    padding-top: 0.50%;
+
+}
+.contact{
+    font-family: 'Work Sans', sans-serif;
+}
+.map  {
+    width: 100%;
+    padding-top: 0.50%;
+}
+.Nom{
+    color: darkcyan;
+}
